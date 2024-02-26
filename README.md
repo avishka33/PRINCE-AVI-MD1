@@ -82,46 +82,9 @@
 5. Connect Your Repository to your web host site
 6. [Watch Videos](https://youtube.com/@Avi_NetHunter)
 # 
-# 
+# heroku deploy 👇
 
 ```
-<details>
-<summary>✅ New Updates</summary>
-
-  
-  ◉
-  
-  ◉ 
-  
-  ◉ 
-
-## 🆕 New additions 🆕
- ◉ Add New Instagram Downloader ( .ig )
- 
-<p>
-</details>
-<details>
-<summary>ℹ️ How To Update </summary>
-<p>
-</details>
-<details>
-<summary>🌐 Support For Deploy </summary>
-<p>
-</details>
-THANAKS FOR USNING 🗡️Prince avi md🗡️
-
-* [🧑‍💻 Join AVI Support Group 🧑‍💻](https://chat.whatsapp.com/HgmlgexUpS8GwFGpYMbznt)
-
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/HgmlgexUpS8GwFGpYMbznt)
-
-     
-       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
-
-  
-  #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://github.com/avishka33)
-
-
-<b>Thanks For</b> -
-
- 🗡️AVISHKA SHAVINDA🗡️
+  https://heroku.com/deploy?template=
+```
+# Thank for teame Avi
